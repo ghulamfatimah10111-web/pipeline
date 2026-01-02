@@ -1,0 +1,2 @@
+com.example.pipeline.App=org.springframework.stereotype.Component
+com.example.pipeline.GreetingController=org.springframework.stereotype.Component

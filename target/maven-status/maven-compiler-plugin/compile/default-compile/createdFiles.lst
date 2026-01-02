@@ -1,0 +1,4 @@
+META-INF\spring.components
+com\example\pipeline\Greeting.class
+com\example\pipeline\App.class
+com\example\pipeline\GreetingController.class
